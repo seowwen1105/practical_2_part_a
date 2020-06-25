@@ -1,4 +1,4 @@
-package com.example.practical_2_part_a;
+package com.example.practical_2_codding_challenge;
 
 import androidx.appcompat.app.AppCompatActivity;
 
